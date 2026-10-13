@@ -1,5 +1,7 @@
 # React + Vite
-anyway 
+anyway have fun with the script and also
+Aha cannot be that cute
+
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 Currently, two official plugins are available:
