@@ -14,7 +14,7 @@ function About({ paragraphs = [], skills = [], personality, cvHref }) {
   const {fadeUp, stagger, inView, initial } = useMotionPreset()
 
   return (
-    <Section id="about" eyebrow="About Me" title="Though one must fall, Other will arise" className="bg-base-200/50">
+    <Section id="about" eyebrow="About Me" title="With enuogh believers, lies becomes reality" className="bg-base-200/50">
       <motion.div
         variants={stagger}
         initial={initial}
